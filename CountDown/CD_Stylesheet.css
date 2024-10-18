@@ -1,0 +1,35 @@
+* {
+    background-color: rgb(98, 165, 107);
+}
+
+.myDate {
+    margin-left: 600px;
+    background-color: rgb(148, 148, 148);
+    border-color: rgb(148, 148, 148);
+    border-radius: 10px;
+    padding: 5px;
+
+}
+
+.message {
+    background-color: rgb(7, 63, 24);
+    border: 2px solid black;
+    border-radius: 5px;
+    padding: 3px 0px 3px 35px;
+    width: 280px;
+    margin-top: 20px;
+    margin-left: 500px;
+}
+
+.message>span {
+    background-color: rgb(112, 139, 64);
+    margin-right: 3px;
+    border: 2px solid rgb(112, 139, 64);
+    border-radius: 5px;
+}
+
+.message>span>span {
+    margin-right: 3px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 5px;
+}
